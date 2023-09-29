@@ -1,0 +1,80 @@
+nav {
+    background: linear-gradient(to right , #EBE7E6, #E8E4E3, #DFD9D9 );
+}
+.logo{
+    font-weight: 700;
+
+}
+.navbar-nav {
+    margin: auto;
+}
+.navbar-nav a{
+    margin: 0px 35px;
+    font-weight: 500;
+    color: #000;
+}
+@media (max-width:768px) {
+    .navbar-nav a{
+        margin: 0px;
+    }
+}
+
+
+/* Hero section css start */
+.hero-section{
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+.left-content h1 {
+    font-size: 6rem;
+    font-style: italic;
+}
+.right-hero-img{
+    width: 500px;
+    margin: auto;
+    height: auto;
+}
+.right-hero-img img {
+    border-radius: 50%;
+}
+.bookatable{
+    margin-left: 20px;
+    border-radius: 30px !important;
+    background-color: #fff !important;
+}
+.viewmenu{
+    margin-right: 20px;
+    border-radius: 30px !important;
+
+}
+.booking{
+    font-size: 14px !important;
+
+}
+@media (max-width:992px) {
+    .left-content h1 {
+        font-size: 3rem;
+    }
+    .right-hero-img{
+        width: 300px;
+    }
+    .hero-section{
+        margin-top: 0px;
+
+    }
+}
+
+@media (max-width:768px) {
+    .left-content h1{
+        font-size: 2rem;
+    }
+    .right-hero{
+        margin-top: 20px;
+    }
+    .right-hero-img {
+        width: 260px;
+    }
+    .bookatable{
+        margin-left: 0px;
+    }
+}

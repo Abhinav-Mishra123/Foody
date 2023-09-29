@@ -1,0 +1,389 @@
+[
+    {
+    "id": 1,
+    "name": "Fat Lulu's Cafe & Bar",
+    "img": "https://b.zmtcdn.com/data/dish_photos/fe6/7493571ad54a788151b8c139c835bfe6.jpg?output-format=webp",
+    "short_desc": "Italian, Pasta, Continental, Beverages",
+    "rating":4.3,
+    "price":"650 for one",
+    "time": "35min",
+    "offer":"60% OFF"
+},
+{
+    "id": 2,
+    "name": "The Pizza Pirates",
+    "img": "https://b.zmtcdn.com/data/dish_photos/703/a674b016a42b22e26118719f45cb4703.jpg?output-format=webp",
+    "short_desc": "Pizza, Sandwich, Burger, Fast Food, Beverages",
+    "rating":3.5,
+    "price":"650 for one",
+    "time": "45min",
+    "offer":"60% OFF"
+},
+{
+    "id": 3,
+    "name": "Pizza Hut",
+    "img": "https://b.zmtcdn.com/data/dish_photos/793/8b46ba82727c451f87740cda85b89793.jpg",
+    "short_desc": "Pizza, Fast Food, Italian",
+    "rating":4.0,
+    "price":"200 for one",
+    "time": "25min",
+    "offer":"30% OFF"
+},
+{
+    "id": 4,
+    "name": "Domino's Pizza",
+    "img": "https://b.zmtcdn.com/data/dish_photos/8d3/3f7b4790495d3ad00cc5de3c40edb8d3.jpg?output-format=webp",
+    "short_desc": "Pizza, Fast Food",
+    "rating":4.3,
+    "price":"250 for one",
+    "time": "25min",
+    "offer":"₹150 OFF"
+},  
+{
+    "id": 5,
+    "name": "Oven Story Pizza - Standout Toppings",
+    "img": "https://b.zmtcdn.com/data/dish_photos/524/cf90ca2709e7b335ae1cfa2ff2e27524.jpg",
+    "short_desc": "Pizza, Fast Food",
+    "rating":4.3,
+    "price":"300 for one",
+    "time": "45min",
+    "offer":"₹150 OFF"
+},
+{
+    "id": 6,
+    "name": "Nirula's",
+    "img": "https://b.zmtcdn.com/data/dish_photos/103/9044fe85b4be0706386282ec849ec103.jpg",
+    "short_desc": "Ice Cream, Pizza, Burger, North Indian, Fast Food, Desserts, Beverages",
+    "rating":4.1,
+    "price":"150 for one",
+    "time": "32min",
+    "offer":""
+},
+{
+    "id": 7,
+    "name": "Burger King",
+    "img": "https://b.zmtcdn.com/data/dish_photos/2c2/84141e2a24ec756aba4880eacf1ce2c2.jpg?output-format=webp",
+    "short_desc": "Burger, Fast Food, Desserts, Shake",
+    "rating":4.2,
+    "price":"150 for one",
+    "time": "30min",
+    "offer":""
+},
+{
+    "id": 8,
+    "name": "Louis Burger",
+    "img": "https://b.zmtcdn.com/data/dish_photos/bb7/5e0b90868b0c32c1c8e85b8d2a1bfbb7.jpg?output-format=webp",
+    "short_desc": "Burger, Fast Food",
+    "rating":4.0,
+    "price":"150 for one",
+    "time": "46min",
+    "offer":"₹200 OFF"
+},
+{
+    "id": 9,
+    "name": "Slurpy Momos",
+    "img": "https://b.zmtcdn.com/data/pictures/5/20748385/90c66c3051d4b0ce14317b81f567ed70_o2_featured_v2.jpg",
+    "short_desc": "Momos, Rolls, Sandwich, Street Food, Fast Food, Shake, Beverages",
+    "rating":4.0,
+    "price":"200 for one",
+    "time": "25min",
+    "offer":"40% OFF"
+},    {
+    "id": 10,
+    "name": "Abdul Ghani Qureshi Kabab Corn",
+    "img": "https://b.zmtcdn.com/data/dish_photos/d9d/741a96b2f207e9654383bd51650fad9d.jpg?output-format=webp",
+    "short_desc": "Italian, Pasta, Continental, Beverages",
+    "rating":4.0,
+    "price":"250 for one",
+    "time": "39min",
+    "offer":"₹200 OFF"
+},
+{
+    "id":11,
+    "name": "WOW! Momo",
+    "img": "https://b.zmtcdn.com/data/dish_photos/1ef/b1c710afc5d0dcafdf2972e1dbb881ef.jpg",
+    "short_desc": "Momos, Fast Food, Tibetan, Sichuan, Beverages",
+    "rating":4.2,
+    "price":"200 for one",
+    "time": "25min",
+    "offer":"FLAT 30% OFF"
+},
+{
+    "id": 12,
+    "name": "Ghee and Turmeric",
+    "img": "https://b.zmtcdn.com/data/dish_photos/69c/814162dd7504e2cb702cfc9c692d069c.jpg?output-format=webp",
+    "short_desc": "North Indian",
+    "rating":4.3,
+    "price":"300 for one",
+    "time": "27min",
+    "offer":"₹200 OFF"
+},
+{
+    "id": 13,
+    "name": "Behrouz Biryani",
+    "img": "https://b.zmtcdn.com/data/dish_photos/77a/70033edf4e8ade8cab451efae1faa77a.jpg?output-format=webp",
+    "short_desc": "Biryani, Kebab, North India",
+    "rating":4.3,
+    "price":"250 for one",
+    "time": "31min",
+    "offer":"FLAT 10% OFF"
+},  
+{
+    "id": 14,
+    "name": "The Momo Spot Momos & More",
+    "img": "https://b.zmtcdn.com/data/dish_photos/724/a5ebce5b73768356ad65dd1222f0a724.jpg",
+    "short_desc": "Momos, Fast Food",
+    "rating":4.0,
+    "price":"200 for one",
+    "time": "29min",
+    "offer":"20% OFF"
+},
+{
+    "id": 15,
+    "name": "UBQ by Barbeque Nation",
+    "img": "https://b.zmtcdn.com/data/dish_photos/385/6f9802f2dc6532ac94b3eff6564f9385.jpg?output-format=webp",
+    "short_desc": "BBQ, North Indian, Mughlai",
+    "rating":4.1,
+    "price":"300 for one",
+    "time": "30min",
+    "offer":"30% OFF"
+},
+{
+    "id": 16,
+    "name": "Jannat Biryani - A Bite Of Heav",
+    "img": "https://b.zmtcdn.com/data/dish_photos/38e/2a55bc30eeb8d5e10e05da5e6b77038e.jpg",
+    "short_desc": "Biryani, Kebab",
+    "rating":4.1,
+    "price":"200 for one",
+    "time": "32min",
+    "offer":"30% OFF"
+},
+{
+    "id": 17,
+    "name": "QD's Restaurant",
+    "img": "https://b.zmtcdn.com/data/dish_photos/d60/ab46204cf673890f5dee96e39fad1d60.jpg",
+    "short_desc": "Chinese, North Indian, Mom",
+    "rating":4.1,
+    "price":"200 for one",
+    "time": "44min",
+    "offer":"₹125 OFF"
+},
+{
+    "id":18,
+    "name": "Haldiram's",
+    "img": "https://b.zmtcdn.com/data/dish_photos/db0/782da8057b760069457247e986cd0db0.png",
+    "short_desc": "North Indian, Chinese, South In",
+    "rating":3.9,
+    "price":"200 for one",
+    "time": "42min",
+    "offer":""
+},    {
+    "id": 19,
+    "name": "China Town Sizzlers",
+    "img": "https://b.zmtcdn.com/data/dish_photos/149/e262af276f8a5854cf27b0a882250149.jpg",
+    "short_desc": "Chinese, Momos, Seafood, Si",
+    "rating":4.1,
+    "price":"250 for one",
+    "time": "47min",
+    "offer":"30% OFF"
+},
+{
+    "id": 20,
+    "name": "Sugar & Spice",
+    "img": "https://b.zmtcdn.com/data/dish_photos/be9/f4184d856bd0a45d010a4c44b78d9be9.png",
+    "short_desc": "Bakery, Desserts, Beverages",
+    "rating":4.3,
+    "price":"150 for one",
+    "time": "24min",
+    "offer":"30% OFF"
+},
+{
+    "id": 21,
+    "name": "Saravana Bhavan",
+    "img": "https://b.zmtcdn.com/data/dish_photos/7b6/fd01fd5c7637ebf436c5ac9e3f0a57b6.jpg",
+    "short_desc": "South Indian, Desserts, Juice",
+    "rating":4.4,
+    "price":"150 for one",
+    "time": "43min",
+    "offer":"₹50 OFF"
+},
+{
+    "id": 22,
+    "name": "Kings Kulfi",
+    "img": "https://b.zmtcdn.com/data/dish_photos/5cf/9fc19629ea0f9443cbe4d83ccef225cf.jpg",
+    "short_desc": "Ice Cream, Desserts, Shake",
+    "rating":4.4,
+    "price":"150 for one",
+    "time": "22min",
+    "offer":"10% OFF"
+},
+{
+    "id": 23,
+    "name": "Berco's - If You Love Chinese",
+    "img": "https://b.zmtcdn.com/data/dish_photos/a50/05fd572facc5cc8a6d36c44b30b86a50.jpg",
+    "short_desc": "Asian, Thai, Chinese, Mom",
+    "rating":4.2,
+    "price":"250 for one",
+    "time": "33min",
+    "offer":""
+},
+{
+    "id": 24,
+    "name": "Abdul Ghani Qureshi Kabab C",
+    "img": "https://b.zmtcdn.com/data/dish_photos/62c/5f79b938d18e87836cdb3f9c12fd862c.jpg",
+    "short_desc": "Kebab, North Indian, Biryani",
+    "rating":4.0,
+    "price":"150 for one",
+    "time": "43min",
+    "offer":"₹200 OFF"
+},
+{
+    "id": 25,
+    "name": "Bheemeshwara - A South Indian",
+    "img": "https://b.zmtcdn.com/data/dish_photos/537/1758b60db4189de78014606ade1a2537.jpg",
+    "short_desc": "South Indian, Beverages",
+    "rating":4.2,
+    "price":"150 for one",
+    "time": "23min",
+    "offer":"₹250 OFF"
+},
+{
+    "id": 26,
+    "name": "Kwality Wall’s Frozen Dessert and Ice Cream Shop",
+    "img": "https://b.zmtcdn.com/data/dish_photos/b05/9745574a51fe71d5892a48b2679e3b05.jpg",
+    "short_desc": "Ice Cream, Desserts",
+    "rating":4.5,
+    "price":"150 for one",
+    "time": "34min",
+    "offer":"₹150 OFF"
+},
+{
+    "id": 27,
+    "name": "The Yellow Bowl",
+    "img": "https://b.zmtcdn.com/data/dish_photos/f2e/d25b2c85db86890390d1e85421101f2e.jpg",
+    "short_desc": "Chinese, North Indian, Mom",
+    "rating":4.1,
+    "price":"250 for one",
+    "time": "39min",
+    "offer":"FLAT 15% OFF"
+},    {
+    "id": 28,
+    "name": "Wicked Wild Wings",
+    "img": "https://b.zmtcdn.com/data/pictures/8/20259168/8398b885d85d29892bbf431ea58099b8_o2_featured_v2.jpg",
+    "short_desc": "Fast Food, Burger, Momos, D",
+    "rating":3.8,
+    "price":"150 for one",
+    "time": "58min",
+    "offer":"40% OFF"
+},
+{
+    "id":29,
+    "name": "Sagar Ratna",
+    "img": "https://b.zmtcdn.com/data/dish_photos/6d0/22ad590948ef7f2ee6d36061b83866d0.jpg",
+    "short_desc": "South Indian, North Indian, C",
+    "rating":4.3,
+    "price":"150 for one",
+    "time": "31min",
+    "offer":""
+},
+{
+    "id": 30,
+    "name": "Nirula's",
+    "img": "https://b.zmtcdn.com/data/dish_photos/d27/81d8245bf7bac57cbbb241d9b2f45d27.jpg",
+    "short_desc": "Ice Cream, Pizza, Burger, No",
+    "rating":4.1,
+    "price":"150 for one",
+    "time": "21min",
+    "offer":""
+},
+{
+    "id": 31,
+    "name": "SIDEWOK",
+    "img": "https://b.zmtcdn.com/data/dish_photos/fd2/825bad4741e3259f5bc333f3ac358fd2.jpg",
+    "short_desc": "Asian, Chinese, Japanese, C",
+    "rating":4.3,
+    "price":"150 for one",
+    "time": "37min",
+    "offer":"30% OFF"
+},  
+{
+    "id": 32,
+    "name": "Khan Chacha",
+    "img": "https://b.zmtcdn.com/data/dish_photos/6d4/0e15ca720414ba607490b8fb2ee6a6d4.jpg",
+    "short_desc": "Rolls, Kebab, North Indian, Mu",
+    "rating":4.1,
+    "price":"150 for one",
+    "time": "32min",
+    "offer":""
+},
+{
+    "id": 33,
+    "name": "M Gopinath South Indian Cafe",
+    "img": "https://b.zmtcdn.com/data/dish_photos/703/7a046761b9ab406faf6e267dbe421703.jpg",
+    "short_desc": "South Indian, Chinese",
+    "rating":4.0,
+    "price":"150 for one",
+    "time": "25min",
+    "offer":"10% OFF"
+},
+{
+    "id": 34,
+    "name": "KFC",
+    "img": "https://b.zmtcdn.com/data/dish_photos/37e/f938930b8dd2b1418ad3f27f7d2a637e.jpg",
+    "short_desc": "Burger, Fast Food, Biryani,",
+    "rating":4.3,
+    "price":"100 for one",
+    "time": "29min",
+    "offer":""
+},
+{
+    "id": 35,
+    "name": "Mamagoto",
+    "img": "https://b.zmtcdn.com/data/dish_photos/a26/25b856c932e2a1c7411cc49ca9e5fa26.jpg",
+    "short_desc": "Chinese, Asian, Japanese, Sea",
+    "rating":4.2,
+    "price":"150 for one",
+    "time": "40min",
+    "offer":"FLAT ₹150 OFF"
+},
+{
+    "id":36,
+    "name": "KFC",
+    "img": "https://b.zmtcdn.com/data/dish_photos/cba/ebd8e706049e4fd5ca79ecf708f8ecba.jpg",
+    "short_desc": "North Indian, Chinese, South In",
+    "rating":4.3,
+    "price":"250 for one",
+    "time": "27min",
+    "offer":""
+},
+{
+    "id": 37,
+    "name": "M Gopinath South Indian Cafe",
+    "img": "https://b.zmtcdn.com/data/dish_photos/703/7a046761b9ab406faf6e267dbe421703.jpg",
+    "short_desc": "South Indian, Chinese",
+    "rating":4.0,
+    "price":"150 for one",
+    "time": "25min",
+    "offer":"10% OFF"
+},
+{
+    "id": 38,
+    "name": "KFC",
+    "img": "https://b.zmtcdn.com/data/dish_photos/37e/f938930b8dd2b1418ad3f27f7d2a637e.jpg",
+    "short_desc": "Burger, Fast Food, Biryani,",
+    "rating":4.3,
+    "price":"100 for one",
+    "time": "29min",
+    "offer":""
+},
+{
+    "id": 39,
+    "name": "Mamagoto",
+    "img": "https://b.zmtcdn.com/data/dish_photos/a26/25b856c932e2a1c7411cc49ca9e5fa26.jpg",
+    "short_desc": "Chinese, Asian, Japanese, Sea",
+    "rating":4.2,
+    "price":"150 for one",
+    "time": "40min",
+    "offer":"FLAT ₹150 OFF"
+}
+  ]

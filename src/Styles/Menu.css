@@ -1,0 +1,245 @@
+.searchbar{
+    height: 50px!important;
+    border-radius: 30px !important;
+}
+.food-img{
+    height: 230px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 30px 30px 0px 0px;
+}
+.food-item-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+.food-item{
+    position: relative;
+    background-color: #fff;
+    border-radius: 30px;
+}
+.food-item:hover{
+    transform: scale(1.02);
+    transition: 0.5s ease-in-out;
+    box-shadow: 0px 6px 12px grey;
+    outline: 5px solid rgb(255, 255, 255);
+}
+.food-item-left{
+    max-width: 70%;
+}
+p.restaurent_offer {
+    position: absolute;
+    bottom: 25%;
+    margin: 0px 0px 1rem;
+    font-size: 14px;
+    line-height: 1.2rem;
+    padding: 0px 0.6rem;
+    background: rgb(37, 111, 239);
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    width: max-content;
+    border-radius: 0px 0.2rem 0.2rem 0px;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.restaurent_name {
+    line-height: 20px;
+    margin-block-end: 0px;
+    font-weight: 500;
+    text-align: left;
+    font-size: 1.3rem;
+    margin: 0.4rem 0px 0.2rem;
+    color: rgb(28, 28, 28);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.restaurent_desc {
+    font-size: inherit;
+    line-height: 1.5;
+    margin: 0px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: rgb(105, 105, 105);
+    padding: 0px 0px 0.4rem;
+}
+.restaurent_price {
+    font-size: inherit;
+    line-height: 1.5;
+    margin: 0px;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: rgb(105, 105, 105);
+    max-width: 30%;
+    padding: 0px 0px 0.4rem;
+}
+.restaurent_time {
+    margin: 0px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(0.4rem);
+    border-radius: 0.4rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: rgb(54, 54, 54);
+    padding: 0.2rem 0.5rem 0.3rem;
+}
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination-container ul li {
+    margin: 0px 7px;
+}
+.pagination-container ul li.active{
+    color: red;
+    font-weight: bold;
+    font-size: 17px;
+}
+.pagination-container ul li.previous{
+    border-radius: 30px;
+    
+}
+.pagination-container ul li a {
+    text-decoration: none;
+}
+
+
+/* About us section */
+.about-img{
+    border-radius: 20px;
+}
+
+/* testimonial section */
+
+.customer-img {
+    position: relative;
+    display: inline-block;
+  }
+.customer-img img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    /* outline: 6px solid aliceblue; */
+}
+.testimonial-left{
+    margin-right: 20px;
+}
+.first{
+    outline: 6px solid #ee888b;
+    
+}
+.second{
+    outline: 6px solid #fbc142;
+}
+.third{
+    outline: 6px solid #a7a7a7;
+}
+.fourth{
+    outline: 6px solid #00b0e1;
+}
+.fifth{
+    outline: 6px solid #d30206;
+}
+.six{
+    outline: 6px solid #2e3233;
+}
+.testimonial-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 90px;
+    border: 1px solid grey;
+}
+p.customer_feedback {
+    padding-right: 5px;
+}
+.testimonial-right p {
+    margin-bottom: 0px;
+}
+.star-rating {
+    font-size: 24px;
+    color: #f1c40f; /* Change the color as needed */
+    display: inline-block;
+  }
+  
+  .star {
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    margin-right: 2px;
+  }
+  
+  .full-star {
+    color: #f1c40f; /* Color for full stars */
+  }
+  
+  .half-star {
+    position: relative;
+    overflow: hidden;
+    width: 10px; /* Half the width of a full star */
+    color: #f1c40f; /* Color for half stars */
+    line-height: 23px;
+  }
+  
+  .empty-star {
+    color: #ddd; /* Color for empty stars */
+  }
+  
+  @media (max-width:768px) {
+    .testimonial-content{
+        display: block;
+        text-align: center;
+        border: none;
+        border-radius: 0px;
+    }
+    p.customer_name {
+        margin-top: 10px;
+    }
+  }
+
+
+  /* Booking a Table form design */
+
+.bookatable {
+    background: linear-gradient(to right , #EBE7E6, #E8E4E3, #DFD9D9 );
+    width: 500px;
+    padding: 30px 10px;
+    border: 1px solid grey;
+}
+.form-label{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.stripe-confirmation {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  right: -450px;
+  bottom: 10px;
+  height: 30px;
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: right 0.8s ease; /* Updated transition duration to 0.8s */
+}
+.stripe-confirmation p{
+    margin-top: 12px;
+
+}
+
+.stripe-confirmation.show {
+  right: 0;
+}
